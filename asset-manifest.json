@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lost-cities/static/css/main.a67a5ba4.chunk.css",
+    "main.js": "/lost-cities/static/js/main.e9e7e169.chunk.js",
+    "main.js.map": "/lost-cities/static/js/main.e9e7e169.chunk.js.map",
+    "runtime-main.js": "/lost-cities/static/js/runtime-main.4c9b93b9.js",
+    "runtime-main.js.map": "/lost-cities/static/js/runtime-main.4c9b93b9.js.map",
+    "static/js/2.78dcaca6.chunk.js": "/lost-cities/static/js/2.78dcaca6.chunk.js",
+    "static/js/2.78dcaca6.chunk.js.map": "/lost-cities/static/js/2.78dcaca6.chunk.js.map",
+    "index.html": "/lost-cities/index.html",
+    "precache-manifest.cbce3531030d23c9122adf936c97a1b2.js": "/lost-cities/precache-manifest.cbce3531030d23c9122adf936c97a1b2.js",
+    "service-worker.js": "/lost-cities/service-worker.js",
+    "static/css/main.a67a5ba4.chunk.css.map": "/lost-cities/static/css/main.a67a5ba4.chunk.css.map"
+  }
+}
